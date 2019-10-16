@@ -1,2 +1,2 @@
 The main program is "InnerBound.c"
-You need to implement CpLEX framework first(refer to https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.0/ilog.odms.studio.help/pdf/usrcplex.pdf)
+You need to implement CpLEX framework first(refer to https://www.ibm.com/support/knowledgecenter/SSSA5P_12.7.0/ilog.odms.studio.help/pdf/usrcplex.pdf, C is included in chapter 4)
