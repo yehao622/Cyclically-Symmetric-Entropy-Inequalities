@@ -1,0 +1,2 @@
+double Calc(int *trans, int **perm_table, int **leader, int sum_mi, int **orb_col_mem, int orb_col, int **orb_row_mem, int orb_row, int k, int r, int n, double ratio);
+int difcount(int *temp_colorb, int n);
